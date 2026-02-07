@@ -1,0 +1,3 @@
+Final Training Session Summary
+Best Val AUC achieved: 0.8441
+Final Val Loss: 0.1421
